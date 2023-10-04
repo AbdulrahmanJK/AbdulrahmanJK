@@ -8,6 +8,8 @@
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdulrahman-abubakirov-b822b3197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdulrahman-abubakirov-b822b3197/" height="30" width="40" /></a>
+[![Telegram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg)](https://t.me/JK_Abdulrahman)
+
 
 <p align="left">
 </p>
